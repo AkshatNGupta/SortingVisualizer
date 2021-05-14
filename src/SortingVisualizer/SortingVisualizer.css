@@ -1,0 +1,38 @@
+.array-container {
+  position: absolute;
+  
+}
+.btn-container {
+  background-color:rgb(176, 194, 164);
+  padding-bottom: 1%;
+}
+.array-bar {
+  width: 3.5px;
+  display: inline-block;
+  margin: 0 1px;
+  /* background-color:indianred; */
+}
+.mybtn{
+  padding: 10px 10px 10px 10px;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 10px;
+  border-color: rgb(253, 163, 160);
+  background-color: rgb(212, 200, 168);
+  color: rgb(255, 0, 0);
+  font-size: large;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.boxing{
+  padding-top: 2%;
+  border-width: 35px;
+  border-color: black;
+  background-color: rgb(209, 209, 209);
+}
+.footer{
+  margin-top: -1.9%;
+  margin-bottom: -2%;
+  color: rgb(213, 243, 255);
+  background-color: rgb(19, 19, 19);
+}
